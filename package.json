@@ -1,0 +1,24 @@
+{
+  "name": "agora-demo",
+  "version": "1.0.0",
+  "description": "Agora Video Call Demo with React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["agora", "video", "react"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.3",
+    "agora-rtc-react": "^2.5.0",
+    "agora-rtc-sdk-ng": "^4.24.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.1",
+    "vite": "^7.1.7"
+  }
+}
